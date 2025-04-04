@@ -1,0 +1,124 @@
+
+ 1028  2025-04-04 05:33  0:00  python3 getlist.py ai
+ 1029  2025-04-04 05:34  0:08  pip3 install requests
+ 1030  2025-04-04 05:34  0:01  python3 -m pip install requests
+ 1031  2025-04-04 05:35  0:00  mkdir .venv
+ 1032  2025-04-04 05:35  0:00  python3 -m .venv
+ 1033  2025-04-04 05:35  0:01  python3 -m venv .venv
+ 1034  2025-04-04 05:36  0:00  source path .venv/bin/activate
+ 1035  2025-04-04 05:36  0:00  ls .venv
+ 1036  2025-04-04 05:36  0:00  ls .venv/bin
+ 1037  2025-04-04 05:37  0:00  file  .venv/bin/activate
+ 1038  2025-04-04 05:37  0:00  cat  .venv/bin/activate
+ 1039  2025-04-04 05:37  0:00  source  .venv/bin/activate
+ 1040  2025-04-04 05:37  0:00  ls
+ 1041  2025-04-04 05:37  0:06  python3 -m pip install requests 
+ 1042  2025-04-04 05:37  0:00  ls
+ 1043  2025-04-04 05:37  0:05  python3 getlist.py
+ 1044  2025-04-04 05:39  0:05  python3 getlist.py game
+ 1045  2025-04-04 05:39  0:13  python3 getlist.py 
+ 1046  2025-04-04 05:44  0:00  subl main.swift
+ 1047  2025-04-04 05:44  0:06  swift run main.swift
+ 1048  2025-04-04 05:45  0:00  swift main.swift
+ 1049  2025-04-04 05:46  0:00  subl main.swift
+ 1050  2025-04-04 05:47  0:00  open .
+ 1051  2025-04-04 05:51  0:00  subl main.swift
+ 1052  2025-04-04 05:51  0:00  swift main.swift
+ 1053  2025-04-04 05:51  0:00  swift main.swift
+ 1054  2025-04-04 05:51  0:00  swift main.swift
+ 1055  2025-04-04 05:51  0:00  ai
+ 1056  2025-04-04 05:52  0:01  swift main.swift
+ 1057  2025-04-04 05:54  0:01  swift main.swift
+ 1058  2025-04-04 05:56  0:04  swift main.swift
+ 1059  2025-04-04 05:58  0:00  git init
+ 1060  2025-04-04 05:58  0:00  git add .
+ 1061  2025-04-04 05:58  0:00  git commit -a "init"
+ 1062  2025-04-04 05:58  0:00  git commit -m "init"
+ 1063  2025-04-04 05:59  0:04  swift main.swift
+ 1064  2025-04-04 06:02  0:03  swift main.swift
+ 1065  2025-04-04 06:02  0:05  swift main.swift
+ 1066  2025-04-04 06:03  0:01  swift main.swift
+ 1067  2025-04-04 06:03  0:00  swift main.swift
+ 1068  2025-04-04 06:04  0:04  swift main.swift
+ 1069  2025-04-04 06:05  0:01  swift main.swift
+ 1070  2025-04-04 06:06  0:03  swift main.swift
+ 1071  2025-04-04 06:06  0:01  curl "https://api.github.com/search/repositories?q=topic:ai&sort=stars&order=desc&per_page=10"
+ 1073  2025-04-04 06:13  0:01  swift main.swift
+ 1074  2025-04-04 06:15  0:01  swift main.swift
+ 1075  2025-04-04 06:16  0:01  swift main.swift
+ 1076  2025-04-04 06:17  0:00  swift main.swift
+ 1077  2025-04-04 06:19  0:00  swift main.swift
+ 1078  2025-04-04 06:19  0:00  swift main.swift
+ 1079  2025-04-04 06:20  0:01  swift main.swift
+ 1080  2025-04-04 06:20  0:00  swift main.swift
+ 1081  2025-04-04 06:21  0:01  swift main.swift
+ 1082  2025-04-04 06:22  0:01  swift main.swift
+ 1083  2025-04-04 06:26  0:01  swift main.swift
+ 1084  2025-04-04 06:31  0:00  swift main.swift
+ 1085  2025-04-04 06:33  0:00  swift main.swift
+ 1086  2025-04-04 06:33  0:00  swift main.swift
+ 1087  2025-04-04 06:33  0:00  chmod +x main.swift
+ 1088  2025-04-04 06:33  0:01  swift main.swift
+ 1089  2025-04-04 06:34  0:03  swift main.swift
+ 1090  2025-04-04 06:35  0:03  swift main.swift
+ 1091  2025-04-04 06:41  0:01  curl -I "application/vnd.github.v3+json"  "https://api.github.com/search/repositories?q=topic:ai&sort=stars&order=desc&per_page=10"
+ 1092  2025-04-04 06:41  0:01  curl -H  "application/vnd.github.v3+json"  "https://api.github.com/search/repositories?q=topic:ai&sort=stars&order=desc&per_page=10"
+ 1093  2025-04-04 07:07  0:03  swift main.swift
+ 1094  2025-04-04 07:14  0:00  cargo new github_repo_fetcher
+ 1095  2025-04-04 07:14  0:00  cd github_repo_fetcher
+ 1096  2025-04-04 07:14  0:00  ls
+ 1097  2025-04-04 07:14  0:00  subl .
+ 1098  2025-04-04 07:15  0:29  cargo run
+ 1099  2025-04-04 07:15  0:00  cd ..
+ 1100  2025-04-04 07:15  0:00  ls
+ 1101  2025-04-04 07:16  0:04  git add github_repo_fetcher
+ 1102  2025-04-04 07:17  0:00  subl github_fetcher.go
+ 1103  2025-04-04 07:17  0:01  go run github_fetcher.go\n
+ 1104  2025-04-04 07:18  0:00  ls
+ 1105  2025-04-04 07:18  0:00  subl github_fetcher.go
+ 1106  2025-04-04 07:19  0:00  git add github_fetcher.go
+ 1107  2025-04-04 07:19  0:01  git commit -m "add new language "
+ 1108  2025-04-04 07:19  0:00  ls
+ 1109  2025-04-04 07:20  0:00  git commit -m "add new language "
+ 1110  2025-04-04 07:20  0:04  go run github_fetcher.go\n
+ 1111  2025-04-04 07:20  0:00  ls
+ 1112  2025-04-04 07:20  0:00  git status
+ 1113  2025-04-04 07:21  0:00  git add github_fetcher.go main.swift
+ 1114  2025-04-04 07:21  0:00  git status
+ 1115  2025-04-04 07:21  0:00  git commit -m "golang swift"
+ 1116  2025-04-04 07:21  0:00  ls
+ 1117  2025-04-04 07:22  0:00  mkdir github-fetcher-ts
+ 1118  2025-04-04 07:22  0:00  cd github-fetcher-ts
+ 1119  2025-04-04 07:22  0:00  ls
+ 1120  2025-04-04 07:22  0:00  npm init -y
+ 1121  2025-04-04 07:22  0:00  npm install --save-dev typescript @types/node ts-node @types/node-fetch@2
+ 1122  2025-04-04 07:23  0:00  enhttp
+ 1123  2025-04-04 07:23  0:00  npm install --save-dev typescript @types/node ts-node @types/node-fetch@2 
+ 1124  2025-04-04 07:23  0:00  cat /Users/apple/.npm/_logs/2025-04-03T23_23_39_133Z-debug-0.log
+ 1125  2025-04-04 07:24  0:00  npm install node-fetch@2
+ 1126  2025-04-04 07:25  0:00  npm -v
+ 1127  2025-04-04 07:26  0:00  npm config set registry https://registry.npmjs.org/
+ 1128  2025-04-04 07:26  0:00  cat /Users/apple/.npm/_logs/2025-04-03T23_23_39_133Z-debug-0.log
+ 1129  2025-04-04 07:26  0:01  npm install --save-dev typescript @types/node ts-node @types/node-fetch@2 
+ 1130  2025-04-04 07:26  0:00  npm config get proxy
+ 1131  2025-04-04 07:26  0:02  npm cache clean --force
+ 1132  2025-04-04 07:26  0:00  npm install --save-dev typescript @types/node ts-node @types/node-fetch@2 
+ 1133  2025-04-04 07:27  0:00  npm config get registry
+ 1134  2025-04-04 07:28  0:00  npm config get https-proxy
+ 1135  2025-04-04 07:28  0:01  npm install -g npm@latest
+ 1136  2025-04-04 07:28  1:01  brew upgrade npm
+ 1137  2025-04-04 07:32  0:00  npm install --save-dev typescript @types/node ts-node @types/node-fetch@2 
+ 1138  2025-04-04 07:32  0:00  npm config set  proxy http://127.0.0.1:10081
+ 1139  2025-04-04 07:33  0:00  npm config set  https-proxy  http://127.0.0.1:10081
+ 1140  2025-04-04 07:33  0:14  npm install --save-dev typescript @types/node ts-node @types/node-fetch@2 
+ 1141  2025-04-04 07:34  0:04  npm install node-fetch@2
+ 1142  2025-04-04 07:34  0:00  npx tsc --init --rootDir src --outDir dist --esModuleInterop --resolveJsonModule --lib es6,dom --module commonjs --target es2016 --strict 
+ 1143  2025-04-04 07:35  0:00  mkdir src
+ 1144  2025-04-04 07:35  0:00  subl src/index.ts
+ 1145  2025-04-04 07:35  0:01  npx tsc 
+ 1146  2025-04-04 07:37  0:01  npx tsc 
+ 1147  2025-04-04 07:37  0:03  node dist/index.js
+ 1148  2025-04-04 07:38  0:08  npx ts-node src/index.ts
+ 1149  2025-04-04 07:38  0:00  cd ..
+ 1150  2025-04-04 07:38  0:00  ls
+ 1151  2025-04-04 07:38  0:01  git add github-fetcher-ts

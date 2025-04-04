@@ -1,0 +1,11 @@
+/Users/apple/github/mindZ/github_repo_fetcher/target/debug/deps/liblitemap-6ed4c354c3308040.rmeta: /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/lib.rs /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/map.rs /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/store/mod.rs /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/store/slice_impl.rs /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/store/vec_impl.rs
+
+/Users/apple/github/mindZ/github_repo_fetcher/target/debug/deps/liblitemap-6ed4c354c3308040.rlib: /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/lib.rs /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/map.rs /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/store/mod.rs /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/store/slice_impl.rs /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/store/vec_impl.rs
+
+/Users/apple/github/mindZ/github_repo_fetcher/target/debug/deps/litemap-6ed4c354c3308040.d: /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/lib.rs /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/map.rs /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/store/mod.rs /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/store/slice_impl.rs /Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/store/vec_impl.rs
+
+/Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/lib.rs:
+/Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/map.rs:
+/Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/store/mod.rs:
+/Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/store/slice_impl.rs:
+/Users/apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.7.5/src/store/vec_impl.rs:

@@ -1,0 +1,12 @@
+[package]
+name = "github_repo_fetcher"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = { version = "0.12", features = ["json"] } # Check for the latest version of reqwest
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1", features = ["full"] } # Using "full" for simplicity, includes macros and rt-multi-thread
+thiserror = "1.0"
+url = "2.5" # For handling URLs robustly (optional, can use String)
